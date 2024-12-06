@@ -52,7 +52,7 @@ html,body{
     width: 640px;
     height: 40px;
     position: absolute;
-    left:50%;
+    left:40%;
     top:50%;
     margin-left:-320px;
     text-shadow: 2px 2px 2px rgb(0, 0, 0);
