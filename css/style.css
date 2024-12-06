@@ -89,7 +89,7 @@ html,body{
     background-attachment: fixed;
     /* height: 100%; */
     height: auto;
-    max-width: 100%;
+    max-width: 1080px;
 }
 #searchbox{
     width: 640px;
