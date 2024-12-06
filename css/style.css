@@ -87,9 +87,7 @@ html,body{
     height: 1000px;
     background-image: url("../img/bj.png");
     background-attachment: fixed;
-    /* height: 100%; */
-    height: auto;
-    max-width: 1080px;
+    height: 100%;
 }
 #searchbox{
     width: 640px;
